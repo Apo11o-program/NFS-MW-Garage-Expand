@@ -15,7 +15,7 @@ corresponding source code.
 
 ## Download and install
 
-1. Download [`NFSMW_Garage200_PlugAndPlay.zip`](./NFSMW_Garage200_PlugAndPlay.zip).
+1. Download the [plug-and-play ZIP from the experimental release](https://github.com/Apo11o-program/NFS-MW-Garage-Expand/releases/tag/v1.0.0).
 2. Back up your career save and existing `Scripts\NFSMWExtraOptionsSettings.ini`.
 3. Extract the ZIP into the game folder that contains `speed.exe`.
 4. Allow the files in `Scripts` to be added or replaced, then start the game.
